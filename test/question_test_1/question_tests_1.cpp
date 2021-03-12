@@ -18,4 +18,4 @@ TEST_CASE("Test decimal to binary")
 	REQUIRE(decimal_to_binary( 255 ) == 11111111);
 }
 
-// ignore this - resub
+// ignore this - resu-
